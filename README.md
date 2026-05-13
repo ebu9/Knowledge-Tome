@@ -104,7 +104,7 @@ knowledge-tome/
 A tome is a large, scholarly book: accumulated knowledge that is bound together. That's the goal, A growing record of information relevant to you!
 
 ### License
-MIT [^1]
+MIT
 
 ### Author
 Abderrahman JENNATI
@@ -112,5 +112,3 @@ Abderrahman JENNATI
 [Linkedin](https://www.linkedin.com/in/abderrahman-j/)
 
 -
-
-[^1]: for the foreseeable future
