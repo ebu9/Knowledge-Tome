@@ -107,6 +107,6 @@ A tome is a large, scholarly book: accumulated knowledge that is bound together.
 MIT
 
 ### Author
-Abderrahman JENNATI
-[jennatiabderrahman@gmail.com](mailto:jennatiabderrahman@gmail.com)
-[Linkedin](https://www.linkedin.com/in/abderrahman-j/)
+Abderrahman JENNATI  
+[jennatiabderrahman@gmail.com](mailto:jennatiabderrahman@gmail.com)  
+[Linkedin](https://www.linkedin.com/in/abderrahman-j/)  
