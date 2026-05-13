@@ -108,7 +108,5 @@ MIT
 
 ### Author
 Abderrahman JENNATI
-[EMAIL](mailto:jennatiabderrahman@gmail.com)
+[jennatiabderrahman@gmail.com](mailto:jennatiabderrahman@gmail.com)
 [Linkedin](https://www.linkedin.com/in/abderrahman-j/)
-
--
